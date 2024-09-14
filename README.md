@@ -1,8 +1,34 @@
-# React + Vite
+# PassOP - MongoDB Version
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+PassOP is a password management application built with **React**, **Node.js**, **Express**, and **MongoDB**. It allows users to store and manage their passwords securely.
 
-Currently, two official plugins are available:
+## Features
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- Secure storage of passwords using MongoDB
+- User authentication and authorization using JWT (JSON Web Token)
+- Responsive design with **Tailwind CSS**
+- Error handling and form validation
+- Integration with **React Toastify** for notifications
+
+## Tech Stack
+
+- **Frontend**: React, Tailwind CSS
+- **Backend**: Node.js, Express.js
+- **Database**: MongoDB, Mongoose
+
+## Installation
+
+Follow the steps below to run the project on your local machine.
+
+### Prerequisites
+
+- Node.js (v16+)
+- MongoDB (local instance or MongoDB Atlas)
+- NPM or Yarn
+
+### Setup Instructions
+
+1. Clone the repository:
+
+   ```bash
+   git clone https://github.com/GouthamGopu//PassOP-MongoDB.git
