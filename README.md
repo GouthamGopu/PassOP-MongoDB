@@ -31,4 +31,4 @@ Follow the steps below to run the project on your local machine.
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/GouthamGopu//PassOP-MongoDB.git
+   git clone https://github.com/GouthamGopu/PassOP-MongoDB.git
